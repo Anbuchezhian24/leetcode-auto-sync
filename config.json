@@ -1,0 +1,5 @@
+{
+  "solutions_directory": "solutions",
+  "state_file": "leetcode-data.json",
+  "submission_limit": 20
+}
