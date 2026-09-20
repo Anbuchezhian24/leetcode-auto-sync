@@ -41,6 +41,27 @@
       "hash": "562db45e7006aa4465c577f87b458531a7a7ffebd58ed89d1a1875fb7e232c41",
       "timestamp": 1785163781,
       "is_duplicate": false
+    },
+    "2137559916": {
+      "problem_key": "0020-valid-parentheses",
+      "approach": 1,
+      "hash": "45fc7be864e4be5f8a8f54873ee94a579a49f6f32a83fe38929a5791469c42db",
+      "timestamp": 1789049306,
+      "is_duplicate": false
+    },
+    "2134075893": {
+      "problem_key": "0026-remove-duplicates-from-sorted-array",
+      "approach": 1,
+      "hash": "c15f54b446a02f48463d51116c33517323cacadf32ff96ad31896536f8955c6b",
+      "timestamp": 1788795995,
+      "is_duplicate": false
+    },
+    "2134072479": {
+      "problem_key": "0026-remove-duplicates-from-sorted-array",
+      "approach": 1,
+      "hash": "c15f54b446a02f48463d51116c33517323cacadf32ff96ad31896536f8955c6b",
+      "timestamp": 1788795818,
+      "is_duplicate": true
     }
   },
   "problems": {
@@ -91,6 +112,24 @@
           "approach": 2,
           "hash": "562db45e7006aa4465c577f87b458531a7a7ffebd58ed89d1a1875fb7e232c41",
           "file_path": "solutions\\easy\\1295-find-numbers-with-even-number-of-digits\\approach-02.py"
+        }
+      ]
+    },
+    "0020-valid-parentheses": {
+      "approaches": [
+        {
+          "approach": 1,
+          "hash": "45fc7be864e4be5f8a8f54873ee94a579a49f6f32a83fe38929a5791469c42db",
+          "file_path": "solutions\\easy\\0020-valid-parentheses\\approach-01.py"
+        }
+      ]
+    },
+    "0026-remove-duplicates-from-sorted-array": {
+      "approaches": [
+        {
+          "approach": 1,
+          "hash": "c15f54b446a02f48463d51116c33517323cacadf32ff96ad31896536f8955c6b",
+          "file_path": "solutions\\easy\\0026-remove-duplicates-from-sorted-array\\approach-01.py"
         }
       ]
     }
